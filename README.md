@@ -7,3 +7,6 @@ Proyecto realizado para la asignatura Implantación de aplicaciones web
 - HTML
 - CSS
 - Git
+
+## Instalación
+Clonar el repositorio y abrir index.html en el navegador.
